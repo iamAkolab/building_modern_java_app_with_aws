@@ -5,7 +5,6 @@ In the exercises, you will start by installing and configuring the AWS CLI, inst
 Then, you will begin to build the backend API with Amazon API Gateway, add authentication to that API, create the backend compute functions with AWS Lambda, and create an asynchronous workflow with AWS Step Functions. You will also implement distributed tracing with AWS X-Ray, use monitoring features, and improve performance for the distributed application.
 
 AWS services used:
-
 * Amazon Simple Storage Service (Amazon S3)
 * Amazon API Gateway
 * Amazon Cognito
