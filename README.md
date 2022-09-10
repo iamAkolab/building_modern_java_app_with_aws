@@ -1,4 +1,4 @@
-# Building Modern Java Application with AWS.
+# Building Modern Java Application with AWS
 
 In the exercises, you will start by installing and configuring the AWS CLI, installing the AWS SDK, exploring the source code, and setting up AWS resources that the application will use. A frontend website (that you can use to interact with the backend API) is provided.
 
